@@ -17,7 +17,7 @@
                 <p>Mot de passe</p>
                 <input class="zonetext" type="password" placeholder="Entrer le mot de passe" name="txtpw" required>
                 <input type="submit" id='submit' class="submit" name="btlogin" value='LOGIN' > 
-                <br><a href="index.php">Exit</a>
+                <br><a href="index.php"><<</a>
                 </form>
     </div>
                  <?php 

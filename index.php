@@ -127,7 +127,8 @@
                     <div class="carousel-caption">
                         <h6>Charki abdelillah</h6>
                         <small>charkiabdillah@gmail.com</small>
-                        <p>je suis un étudiant de école supérieure de technologie branche :genie informatique<br>je suis passione a <span style="color: crimson;" class="typing-1"></span></p>
+                        <p>Je suis un étudiant à l'école supérieure de technologie - sidi bennour
+                        <br>Je suis passionné par : <span style="color: crimson;" class="typing-1"></span></p>
                     </div>
                   </div>
                   <div class="carousel-item">
@@ -184,7 +185,7 @@
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">Charkilocation_Traivaille@gmail.com</div>
+                                <div class="sub-title">CharkiLocation_Traivaille@gmail.com</div>
                             </div>
                         </div>
                         <div class="row">
@@ -208,53 +209,53 @@
             <h2 class="title">contactez nous</h2>
             <div class="contact-content">
                 <div class="column left">
-                    <div class="text">Get in Touch</div>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos harum corporis fuga corrupti. Doloribus quis soluta nesciunt veritatis vitae nobis?</p>
+                    <div class="text">Pour vous</div>
+                    <p>Si vous avez des questions , n'hésitez pas à les envoyer</p>
                     <div class="icons">
                         <div class="content">
                         <div class="row">
                             <i class="fas fa-user"></i>
                             <div class="info">
-                                <div class="head">Name</div>
-                                <div class="sub-title">Prakash Shahi</div>
+                                <div class="head">Nom</div>
+                                <div class="sub-title">Charki abdelillah</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="info">
                                 <div class="head">Address</div>
-                                <div class="sub-title">Surkhet, Nepal</div>
+                                <div class="sub-title">Sale/Rabat/Knetra</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">abc@gmail.com</div>
+                                <div class="sub-title">abc_help@gmail.com</div>
                             </div>
                         </div>
                         </div>
                     </div>
                 </div>
                 <div class="column right">
-                    <div class="text">Message me</div>
+                    <div class="text">Ecrire</div>
                     <form action="#">
                         <div class="fields">
                             <div class="field name">
-                                <input type="text" placeholder="Name" required>
+                                <input type="text" placeholder="Nom" required>
                             </div>
                             <div class="field email">
                                 <input type="email" placeholder="Email" required>
                             </div>
                         </div>
                         <div class="field">
-                            <input type="text" placeholder="Subject" required>
+                            <input type="text" placeholder="Sujet" required>
                         </div>
                         <div class="field textarea">
                             <textarea cols="30" rows="10" placeholder="Message.." required></textarea>
                         </div>
                         <div class="button">
-                            <button type="submit">Send message</button>
+                            <button type="submit">Envoyer</button>
                         </div>
                     </form>
                 </div>
