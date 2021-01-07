@@ -1,5 +1,5 @@
 <?php 
-$serveur="192.168.1.37";
+$serveur="192.168.1.11";
 $user="root";
 $pssw="root";
 $bdd="loccar";

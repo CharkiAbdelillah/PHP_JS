@@ -38,22 +38,22 @@
                   <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto text-right">
                       <li class="nav-item ">
-                        <a class="nav-link active-home" href="#">Home</a>
+                        <a class="nav-link " href="#">Accueil</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Services</a>
+                        <a class="nav-link" href="#deplace_voiture">Voitures</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Pricing</a>
+                        <a class="nav-link" href="#services">Services</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#" >About Us</a>
+                        <a class="nav-link" href="#propos" >A propos</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#" >Contact Us</a>
+                        <a class="nav-link" href="#contact" >Contacts</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="login.php" >login</a>
+                        <a class="nav-link" href="login.php" >Login</a>
                       </li>
                     </ul>
                   </div>
@@ -76,7 +76,7 @@
     </div>
     <div class="articles">
     
-            <h2 class="title">listes des voitures</h2>
+            <h2 class="title" id="deplace_voiture">listes des voitures</h2>
         <?php
         if (isset($_POST['btsubmit']))
 
@@ -121,7 +121,7 @@
                   <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"></li>
                 </ol>
                 <div class="carousel-inner">
-                <h2 class="title">A propos de nous</h2>   
+                <h2 class="title" id="propos">A propos de nous</h2>   
                   <div class="carousel-item active">
                     <img src="images/user.png">
                     <div class="carousel-caption">
@@ -264,7 +264,7 @@
     </section>
     </div>
         <!-- footer section start -->
-    <footer>
+    <footer class="foot">
         <span style="text-decoration: none!important;">Created By <a class="kak" href="#">Charki abdelillah</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
     </footer>
 <script src="script.js"></script>

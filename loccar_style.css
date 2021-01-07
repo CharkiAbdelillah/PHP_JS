@@ -311,6 +311,7 @@ table{
 }
 .content{
     padding-left: 50px;
+    margin-top: 50px;
 }
 .contact .right form .textarea{
     height: 80px;
@@ -375,6 +376,10 @@ footer{
     color: #fff;
     text-align: center;
 }
+/* .foot{
+    margin-top: 90px;
+    padding-top: 90px;
+} */
 span{
     color: crimson;
 }
@@ -423,6 +428,7 @@ footer span a:hover{
     }
     .contact-content {
         display: block;
+        
         /* justify-content: space-between; */
         
     }
